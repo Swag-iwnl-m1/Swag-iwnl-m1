@@ -29,3 +29,11 @@ Here are some ideas to get you started:
 
 #### My github stats
 ![Swag GitHub stats](https://github-readme-stats.vercel.app/api?username=Swag-iwnl-m1&&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swag-iwnl-m1/Swag-iwnl-m1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swag-iwnl-m1/Swag-iwnl-m1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swag-iwnl-m1/Swag-iwnl-m1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
