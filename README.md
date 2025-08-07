@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Backend laravel,Cybersecurity & Gamedev with Roblox studio**
 😄 Pronouns: **He/Him**
 📫 How to reach me: **Add my Discord Kido8518**
-🤴
 ![watch dogs](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhwcWZzcG44Z2ZjMmhtZnQycGtocXo1bmN1cjNqdXVreGJpYXMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIbf5tg34NaaepZmn0/giphy.gif)    
