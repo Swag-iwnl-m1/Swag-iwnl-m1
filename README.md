@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -😄 Pronouns: **He/Him**
 
-#### Languages
+#### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,php,linux&theme=light)](https://skillicons.dev)
 
