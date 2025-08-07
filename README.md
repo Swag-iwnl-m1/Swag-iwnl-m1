@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
 -😄 Pronouns: **He/Him**
 
+#### Skills
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 -📫 How to reach me: **Add my Discord Kido8518**
 
 ![watch dogs](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhwcWZzcG44Z2ZjMmhtZnQycGtocXo1bmN1cjNqdXVreGJpYXMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIbf5tg34NaaepZmn0/giphy.gif)    
