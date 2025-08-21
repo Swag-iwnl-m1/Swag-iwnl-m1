@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -🌱 I’m currently learning **Backend Django,Cybersecurity & Gamedev with Roblox studio**
-- ⚡Sometime learn physics and math to spare time
+-⚡Sometime learn physics and math to spare time
 -😄 Pronouns: **He/Him**
 
 #### Skills
