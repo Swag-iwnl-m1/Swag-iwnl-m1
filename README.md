@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,django,linux&theme=light)](https://skillicons.dev)
 
+#### My github stats
+![Swag GitHub stats](https://github-readme-stats.vercel.app/api?username=swag_iwnl_m1&show_icons=true&theme=radical)
+
 
 -📫 How to reach me: **Add my Discord Kido8518**
 
