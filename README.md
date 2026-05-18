@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,lua,robloxstudio,linux&theme=light)](https://skillicons.dev)
 
-
 #### My github stats
 ![Swag GitHub stats](https://github-readme-stats.vercel.app/api?username=Kido&show_icons=true&theme=radical)
 
