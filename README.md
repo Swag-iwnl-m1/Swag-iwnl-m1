@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,lua,robloxstudio,linux&theme=light)](https://skillicons.dev)
 
 #### My github stats
-[![GitHub Streak](https://github-readme-streak-stats-gamma-kohl.vercel.app?user=Kido)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-kohl.vercel.app?user=Kido&theme=dark" alt="GitHub Streak" /></a>
 
 
 -📫 How to reach me: **Add my Discord Kido8518**
